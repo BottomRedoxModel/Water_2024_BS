@@ -13,4 +13,5 @@ Copernicus Marine Service (CMEMS) [Black Sea Physics Reanalysis dataset](https:/
 
 ## Article cases
 In "whithout increased sinking velocity" case set the **WMn** variable in **fabm.yaml** to 0.0.
+
 In "with increased sinking velocity" case set the **WMn** variable in **fabm.yaml** to -15.0.
